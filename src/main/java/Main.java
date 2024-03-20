@@ -5,6 +5,5 @@ public class Main {
         System.out.println("Printf M1");
         System.out.println("Printf From Master1");
         System.out.println("Printf feature/1-print-on-screen and somethings123");
-        System.out.println("Printf Say World");
     }
 }
